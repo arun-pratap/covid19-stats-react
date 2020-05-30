@@ -1,0 +1,25 @@
+{
+  "short_name": "Covid19 Stats",
+  "name": "Covid19 Latest Updates",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "512x512 192x192 32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
